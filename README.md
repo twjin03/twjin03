@@ -1,4 +1,56 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Yejin's%20GitHub&fontSize=42" />
+
+<div>
+
+🎨 Programming Languages
+
+![js](https://img.shields.io/badge/C/C++-5C6BC0?style=flat&logo=c&logoColor=white)
+![js](https://img.shields.io/badge/Python-3F76A5?style=flat&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/Java-DB380E?style=flat&logo=java&logoColor=white)
+
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![js](https://img.shields.io/badge/HTML-E44D26?style=flat&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css&logoColor=white)
+![js](https://img.shields.io/badge/Dart-2BB7F6?&style=flat&logo=dart&logoColor=white)
+
+
+🧩 Frontend
+
+![js](https://img.shields.io/badge/React-61DBFB?style=flat&logo=react&logoColor=white)
+![js](https://img.shields.io/badge/tailwindCSS-0FB8D6?style=flat&logo=tailwind-css&logoColor=white)
+![js](https://img.shields.io/badge/styled--components-D876B2?style=flat&logo=styled-components&logoColor=white)
+![js](https://img.shields.io/badge/Flutter-08589C?style=flat&logo=flutter&logoColor=white)
+![js](https://img.shields.io/badge/Vite-5F57FF?style=flat&logo=vite&logoColor=white)
+![js](https://img.shields.io/badge/Axios-5F30E5?style=flat&logo=axios&logoColor=white)
+
+🗄 Backend & Server | Database
+
+![js](https://img.shields.io/badge/Node.js-71A664?style=flat&logo=node.js&logoColor=white)
+![js](https://img.shields.io/badge/spring-72B545?style=flat&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/Firebase-FFA612?style=flat&logo=firebase&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-F5A741?style=flat&logo=mysql&logoColor=white)
+
+☁️ Infra | Deployment
+
+![js](https://img.shields.io/badge/Linux-F5BD0D?style=flat&logo=linux&logoColor=white)
+![js](https://img.shields.io/badge/Vercel-080808?style=flat&logo=vercel&logoColor=white)
+
+🛠️ Tools
+
+![js](https://img.shields.io/badge/Git-F05639?style=flat&logo=Git&logoColor=white)
+![js](https://img.shields.io/badge/GitHub-191919?style=flat&logo=GitHub&logoColor=white)
+![js](https://img.shields.io/badge/VSCode-0178BA?style=flat&logo=vscode&logoColor=white)
+![js](https://img.shields.io/badge/IntelliJ-EF3265?style=flat&logo=intellij&logoColor=white)
+![js](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
+![js](https://img.shields.io/badge/Figma-8C55FF?style=flat&logo=figma&logoColor=white)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **twjin03/twjin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,34 +65,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-<div> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <br>
-
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/vs Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white">
-</div>
 -->
