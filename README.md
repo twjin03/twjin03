@@ -26,7 +26,6 @@
 
 🗄 Backend & Server | Database
 
-![js](https://img.shields.io/badge/Node.js-71A664?style=flat&logo=node.js&logoColor=white)
 ![js](https://img.shields.io/badge/spring-72B545?style=flat&logo=spring&logoColor=white)
 ![js](https://img.shields.io/badge/Firebase-FFA612?style=flat&logo=firebase&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-F5A741?style=flat&logo=mysql&logoColor=white)
@@ -38,10 +37,9 @@
 
 🛠️ Tools
 
-![js](https://img.shields.io/badge/Git-F05639?style=flat&logo=Git&logoColor=white)
 ![js](https://img.shields.io/badge/GitHub-191919?style=flat&logo=GitHub&logoColor=white)
-![js](https://img.shields.io/badge/VSCode-0178BA?style=flat&logo=vscode&logoColor=white)
-![js](https://img.shields.io/badge/IntelliJ-EF3265?style=flat&logo=intellij&logoColor=white)
+![js](https://img.shields.io/badge/Visual_Studio_Code-0178BA?style=flat&logo=vscode&logoColor=white)
+![js](https://img.shields.io/badge/IntelliJ-EF3265?style=flat&logo=intellijidea&logoColor=white)
 ![js](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![js](https://img.shields.io/badge/Figma-8C55FF?style=flat&logo=figma&logoColor=white)
 
