@@ -9,10 +9,6 @@
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![js](https://img.shields.io/badge/HTML-E44D26?style=flat&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css&logoColor=white)
-![js](https://img.shields.io/badge/Dart-2BB7F6?&style=flat&logo=dart&logoColor=white)
-
 
 🧩 Frontend
 
