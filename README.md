@@ -38,8 +38,8 @@
 ![js](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
 ![js](https://img.shields.io/badge/Figma-8C55FF?style=flat&logo=figma&logoColor=white)
 
-<br/>
 <!--
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
