@@ -6,10 +6,6 @@
 
 사람을 이해하고 더 나은 사용자 경험을 만드는 프론트엔드 개발자입니다.
 
-[![Email](https://img.shields.io/badge/Email-twjindev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:twjindev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-twjin03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/twjin03)
-
-
 
 ## About Me
 
