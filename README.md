@@ -2,7 +2,7 @@
 
 
 
-# 김예진 | Frontend Developer
+## 김예진 | Yejin Kim
 
 사람을 이해하고 더 나은 사용자 경험을 만드는 프론트엔드 개발자입니다.
 
